@@ -72,21 +72,6 @@ Follow these steps to set up and run the project locally:
    - Frontend: Open `http://localhost:3000` in your browser.
    - Backend: The server runs on `http://localhost:2000` by default.
 
-## 📂 Folder Structure
-
-The project is structured as follows:
-
-```
-recipe-app/
-├── frontend/         # React application (UI)
-├── server/           # Backend application (API)
-│   ├── controllers/  # Logic for request handling
-│   ├── models/       # Database schemas
-│   ├── routes/       # API routes
-│   └── index.js      # Entry point for the server
-└── README.md         # Project documentation
-```
-
 ## 💻 Technologies Used
 
 ### Frontend:
