@@ -41,11 +41,6 @@ Follow these steps to set up and run the project locally:
      ```bash
      npm install
      ```
-   - Return to the root directory:
-     ```bash
-     cd ..
-     ```
-
 4. **Backend Setup:**
    - Navigate to the `server` directory:
      ```bash
@@ -80,6 +75,7 @@ Follow these steps to set up and run the project locally:
 ### Frontend:
 - React
 - React Router DOM
+- React-toastify (for showing message for a particular interval)
 
 ### Backend:
 - Node.js
@@ -114,11 +110,4 @@ Contributions are welcome! If you have ideas or fixes, please fork the repositor
 - **Port Conflicts:**
   If the default ports are in use, update the `PORT` variable in the `.env` file.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
-
-Happy Cooking! 🍲
-
