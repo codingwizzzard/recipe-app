@@ -71,6 +71,9 @@ Follow these steps to set up and run the project locally:
 6. **Access the Application:**
    - Frontend: Open `http://localhost:3000` in your browser.
    - Backend: The server runs on `http://localhost:2000` by default.
+   
+
+---
 
 ## 💻 Technologies Used
 
